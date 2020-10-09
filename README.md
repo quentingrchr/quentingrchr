@@ -1,5 +1,5 @@
 ### Hello there 👋
-### I'm currently working at [ultranoir](https://www.ultranoir.com/) and studying at [HETIC](https://www.hetic.net/)
+### I'm a web developer currently working at [ultranoir](https://www.ultranoir.com/) and studying at [HETIC](https://www.hetic.net/)
 ### You can visit some of my work [here](https://www.quentingrancher.com/)
 - 📚 I'm feeling confortable with ReactJS, NodeJS, ExpressJS, VueJS
 - 🌱 I’m currently exploring NextJS
