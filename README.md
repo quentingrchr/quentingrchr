@@ -5,6 +5,6 @@
 - 🌱 I’m currently exploring NextJS
 - 📫 How to reach me: Just send me an email *q.grancher@gmail.com*
 
-- ⚡ Random fact: I'm a big fan of Star Wars and I make music sometimes
+- ⚡ Random fact: Star Wars fans and I make music sometimes
 
 
