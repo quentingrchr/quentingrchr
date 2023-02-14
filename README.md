@@ -5,6 +5,4 @@
 - 🌱 I’m currently exploring React Native and NestJS
 - 📫 How to reach me: Just send me an email *q.grancher[at]gmail.com*
 
-- ⚡ Random fact: Star Wars / Marvel fan and I make music sometimes
-
 
